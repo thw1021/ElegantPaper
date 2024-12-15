@@ -1,8 +1,6 @@
 # ElegantPaper
 
-本模板是在[ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)修改而来。
-
-模板使用说明请参见[模板文档](https://github.com/ElegantLaTeX/ElegantPaper/releases)，或者 [wiki](https://github.com/ElegantLaTeX/ElegantPaper/wiki)。
+本模板是在[ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)的基础上修改而来。
 
 ## License
 
