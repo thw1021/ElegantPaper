@@ -56,4 +56,6 @@ if [[ ! -d ${docDir} ]]; then
 fi
 cp ./${tmpDir}/*.pdf ${docDir}/
 
-${pdfViwer} ./${docDir}/${fileName}.pdf || exit
+${pdfViwer} ./${docDir}/${fileName}.pdf
+
+exit
